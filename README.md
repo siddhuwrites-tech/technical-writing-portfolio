@@ -121,4 +121,4 @@ The documentation examples simulate realistic software documentation used in eng
 
 If you would like to discuss technical writing opportunities or collaboration, feel free to connect.
 
-LinkedIn: (Add your LinkedIn profile here)
+LinkedIn: www.linkedin.com/in/siddharthan-tr
