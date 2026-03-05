@@ -1,0 +1,12 @@
+# Troubleshooting
+
+## Simulation Failure
+
+Possible Causes
+
+- Incorrect load parameter
+- Missing boundary conditions
+
+Solution
+
+Verify input parameters and ensure all structural components are defined.
